@@ -14,6 +14,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" height="48" width="48" alt="SourceTree"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/xcode/icon.svg" height="48" width="48" alt="Xcode"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48" width="48" alt="Postman"/>
 </p>
 
 
