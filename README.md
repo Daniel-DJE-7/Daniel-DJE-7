@@ -8,7 +8,7 @@
 ## <h2 align="center">💻 Languages & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,figma,github,vscode, postman" />
+    <img src="https://skillicons.dev/icons?i=swift,figma,github,vscode" />
   </a>
   &nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" height="48" width="48" alt="SourceTree"/>
