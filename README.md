@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Daniel Figueredo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <div align="center">
-  <img src="assets/images/banner.png" width="800" height="370"/>
+  <img src="assets/images/poster.png" width="800" height="370"/>
 </div>
 
 ## <h2 align="center">💻 Languages & Tools</h2>
