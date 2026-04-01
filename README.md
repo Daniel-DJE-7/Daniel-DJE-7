@@ -5,7 +5,7 @@
   <img src="assets/images/poster.png" width="800" height="370"/>
 </div>
 
-## <h2 align="center">👨‍💻 About me</h2>
+## <h2 align="center">👨🏻‍💻 About me</h2>
 <p>
 💼 I am a Software Analysis and Development student at SENA, focused on building iOS applications using Swift, UIKit, and modern development practices, including API integration.
 
