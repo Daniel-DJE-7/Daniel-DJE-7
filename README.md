@@ -7,11 +7,11 @@
 
 ## <h2 align="center">👨🏻‍💻 About me</h2>
 <p>
-💼 I am a Software Analysis and Development student at SENA, focused on building iOS applications using Swift, UIKit, and modern development practices, including API integration.
+💼 I am a Software Analysis and Development student at SENA, focused on building iOS applications using Swift, UIKit, and modern development practices, including API integration.<br><br>
 
-💼 I am currently seeking an internship or entry-level position to complete my studies.
+💼 I am currently seeking an internship or entry-level position to complete my studies.<br><br>
 
-💼 I am experienced in building interfaces programmatically as well as using Storyboards and XIBs.
+💼 I am able to build user interfaces both programmatically and using Storyboards and XIBs.<br><br>
 
 🔭 I am currently learning MVVM architecture, Compositional Layout, SwiftUI, and Firebase.
 </p>
