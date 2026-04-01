@@ -5,6 +5,16 @@
   <img src="assets/images/poster.png" width="800" height="370"/>
 </div>
 
+## <h2 align="center">👨‍💻 About me</h2>
+<p>
+💼 I am a Software Analysis and Development student at SENA, focused on building iOS applications using Swift, UIKit, and modern development practices, including API integration.
+
+💼 I am currently seeking an internship or entry-level position to complete my studies.
+
+💼 I am experienced in building interfaces programmatically as well as using Storyboards and XIBs.
+
+🔭 I am currently learning MVVM architecture, Compositional Layout, SwiftUI, and Firebase.
+</p>
 ## <h2 align="center">💻 Languages & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
