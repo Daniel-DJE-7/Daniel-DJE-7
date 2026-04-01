@@ -15,6 +15,7 @@
 
 🔭 I am currently learning MVVM architecture, Compositional Layout, SwiftUI, and Firebase.
 </p>
+
 ## <h2 align="center">💻 Languages & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
