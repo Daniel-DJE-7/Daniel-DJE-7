@@ -13,7 +13,7 @@
 
 💼 I am able to build user interfaces both programmatically and using Storyboards and XIBs.<br><br>
 
-🔭 I am currently learning MVVM architecture, Compositional Layout, SwiftUI, and Firebase.
+🔭 I am currently learning MVVM architecture, Compositional Layout, UIkit, SwiftUI, and Firebase.
 </p>
 
 ## <h2 align="center">💻 Languages & Tools</h2>
